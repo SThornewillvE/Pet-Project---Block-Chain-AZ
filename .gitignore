@@ -1,2 +1,3 @@
-# iPyNb Checkpoints
+# iPyNb Files
 .ipynb_checkpoints
+__pycache__
